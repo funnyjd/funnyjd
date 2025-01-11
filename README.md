@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on an AI solution for the benefit of society
-- 🌱 I’m currently applying code and low-code techniques to help data valuation
+- 🌱 I’m currently applying code and low-code techniques to create data-driven insights
 - 👯 I’m looking to collaborate on climate-related data projects
 <!--
 **funnyjd/funnyjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

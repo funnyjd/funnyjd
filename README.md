@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on an AI solution for the benefit of society
+- 🔭 I’m currently working on an AI solution for the social good
 - 🌱 I’m currently applying code and low-code techniques to create data-driven insights
 - 👯 I’m looking to collaborate on climate-related data projects
 <!--
